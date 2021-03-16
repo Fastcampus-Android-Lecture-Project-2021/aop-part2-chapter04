@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aop-part2-chapter4</string>
+    <string name="clear_expression">계산기록 삭제</string>
+    <string name="close">닫기</string>
+</resources>
